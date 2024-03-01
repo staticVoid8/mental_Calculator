@@ -1,5 +1,6 @@
 import random
-   
+
+# add timer and scoreboard
    
 # Initialize operators
 operators = ["+", "-", "*"]
